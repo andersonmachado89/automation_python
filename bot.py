@@ -2,6 +2,7 @@ import pyautogui
 import pandas as pd
 import time
 
+#tempo para execução de um comando e outro
 pyautogui.PAUSE = 0.5
 
 # Visualizando a nomenclatura das teclas
